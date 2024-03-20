@@ -41,10 +41,14 @@ body{
 .greetings > span:nth-child(5){
     animation-delay: .8s;
 }
-
-.description{
-    font-size: 1.5rem;
-    margin-bottom: 20px;
+.greetings > span:nth-child(6){
+    animation-delay: 1.2s ;
+}
+.greetings > span:nth-child(7){
+    animation-delay: 1.4s ;
+}
+.greetings > span:nth-child(8){
+    animation-delay: 1.6s;
 }
 
 .button a{
